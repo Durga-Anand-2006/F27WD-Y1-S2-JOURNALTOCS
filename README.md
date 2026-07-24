@@ -56,8 +56,6 @@ overhaul.
 
 **Design:** Responsive layout, CSS media queries, modal-based UI patterns
 
-**Other:** Git & GitHub
-
 ---
 
 ## 🗂️ Project Structure
