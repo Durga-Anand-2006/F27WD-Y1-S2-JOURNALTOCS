@@ -53,7 +53,9 @@ overhaul.
 ## 🛠️ Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript
+
 **Design:** Responsive layout, CSS media queries, modal-based UI patterns
+
 **Other:** Git & GitHub
 
 ---
