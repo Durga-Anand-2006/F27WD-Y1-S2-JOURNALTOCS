@@ -121,7 +121,9 @@ Group 14 — Heriot-Watt University Dubai
 ## 🏫 Course Info
 
 **Module:** F27WD Web Design and Databases
+
 **University:** Heriot-Watt University Dubai
+
 **Year:** 2024–2025
 
 ---
