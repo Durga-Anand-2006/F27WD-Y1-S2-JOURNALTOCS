@@ -1,11 +1,11 @@
-# 🐫 JournalTOCs Redesign
+# 📖 JournalTOCs Redesign
 
 > "Explore the World of Research"
 
 A UI/UX redesign of [JournalTOCs](http://www.journaltocs.hw.ac.uk) — the free
 scholarly journal Tables of Contents (TOC) discovery platform, reimagining its
 navigation, colour system, layout, and responsiveness for a cleaner, more
-usable research experience. Built as part of F27WD Web Design and Databases coursework
+usable research experience. The very first project, built as part of F27WD Web Design and Databases coursework
 at Heriot-Watt University Dubai (Group 14).
 
 ---
@@ -125,3 +125,5 @@ Group 14 — Heriot-Watt University Dubai
 **Year:** 2024–2025
 
 ---
+
+<img width="2880" height="1640" alt="JournalTOCs" src="https://github.com/user-attachments/assets/2b777534-da23-4c30-803a-179a2539bcf3" />
